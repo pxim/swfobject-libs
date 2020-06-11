@@ -1,102 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b8e1e5fc-1978-4d3e-8fec-421fde86d53b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/createjs-2015.11.26.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/createjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/easeljs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/preloadjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/soundjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tweenjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/BANNER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/LICENSE" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/VERSIONS.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/1.0.0/createjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/1.0.0/createjs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2013.02.12.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2013.05.14.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2013.09.25.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2013.09.25.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2013.11.15.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2013.11.15.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2013.12.12.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2013.12.12.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2014.12.12.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2014.12.12.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2015.05.21.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2015.05.21.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2015.11.26.combined.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/builds/createjs-2015.11.26.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/apple-touch-icon-114x114.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/apple-touch-icon-120x120.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/apple-touch-icon-144x144.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/apple-touch-icon-152x152.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/apple-touch-icon-180x180.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/apple-touch-icon-57x57.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/apple-touch-icon-60x60.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/apple-touch-icon-72x72.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/apple-touch-icon-76x76.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/apple-touch-icon-precomposed.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/apple-touch-icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/banner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/favicon-160x160.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/favicon-16x16.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/favicon-192x192.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/favicon-96x96.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/large.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/square.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/tiny.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/favicons/wide.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/images/createjs-CDN.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/images/createjs-bg-center.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/images/createjs-icon-gray-darker.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/images/createjs-logo-horizontal-gray-darker.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/images/createjs-logo-vertical-gray-darker.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/images/easeljs-logo-horizontal-color.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/images/preloadjs-logo-horizontal-color.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/images/reset-icon-dark.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/images/soundjs-logo-horizontal-color.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/images/tweenjs-logo-horizontal-color.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/index.template.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/styles/imports/Normalize.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/styles/imports/breakpoint.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/styles/imports/color.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/styles/imports/fonts.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/styles/imports/layout.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/styles/imports/tags.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/styles/imports/transition.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/styles/imports/utilities/breakpoint.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/styles/imports/utilities/clearfix.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/cdn/styles/styles.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/config.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/gruntfile.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/icon.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/createjs/tasks/grunt-inline-source.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/notes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs-2015.11.26.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/createjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easeljs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/1.0.0/createjs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/1.0.0/easeljs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/1.0.0/preloadjs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/1.0.0/soundjs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/1.0.0/tweenjs.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/libs/2015.11.26/createjs-2015.11.26.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/preloadjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/soundjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/tweenjs.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webpack.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
-    </list>
+    <list default="true" id="b8e1e5fc-1978-4d3e-8fec-421fde86d53b" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -112,7 +17,7 @@
         <entry file="file://$PROJECT_DIR$/readme.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="148">
+              <first_editor relative-caret-position="361">
                 <caret line="19" selection-start-line="19" selection-end-line="19" />
               </first_editor>
               <second_editor />
@@ -123,8 +28,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+            <state relative-caret-position="152">
+              <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -132,7 +37,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/swfobject.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
+            <state relative-caret-position="209">
               <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -144,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/libs/swfobject.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15580">
+            <state relative-caret-position="15542">
               <caret line="820" selection-start-line="820" selection-end-line="820" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -192,7 +97,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="450" />
     <option name="y" value="285" />
     <option name="width" value="1266" />
@@ -203,6 +108,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -214,7 +120,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -280,19 +185,20 @@
       <workItem from="1591846467544" duration="1425000" />
       <workItem from="1591852466088" duration="7511000" />
       <workItem from="1591860412870" duration="4000" />
+      <workItem from="1591861688434" duration="19000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13470000" />
+    <option name="totallyTimeSpent" value="13489000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.75952125" visible="true" weight="0.20084344" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.7584331" visible="true" weight="0.12967844" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="npm" order="2" sideWeight="0.24047878" side_tool="true" visible="true" weight="0.20084344" />
+      <window_info id="npm" order="2" sideWeight="0.24156693" side_tool="true" visible="true" weight="0.12967844" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3297062" />
@@ -376,7 +282,7 @@
     <entry file="file://$PROJECT_DIR$/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="148">
+          <first_editor relative-caret-position="361">
             <caret line="19" selection-start-line="19" selection-end-line="19" />
           </first_editor>
           <second_editor />
@@ -385,7 +291,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/swfobject.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
+        <state relative-caret-position="209">
           <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -395,7 +301,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/libs/swfobject.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15580">
+        <state relative-caret-position="15542">
           <caret line="820" selection-start-line="820" selection-end-line="820" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
@@ -405,8 +311,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="35" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
+        <state relative-caret-position="152">
+          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
         </state>
       </provider>
     </entry>
